@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # Virtual environmentecho venv/echo .venv/echo __pycache__/echo *.pycecho.echo # Data folder exclusionsecho fraud-aml-canada-project/data/raw/*echo !fraud-aml-canada-project/data/raw/.gitkeepecho fraud-aml-canada-project/data/processed/*echo !fraud-aml-canada-project/data/processed/.gitkeepecho.echo # OS junkecho .DS_Storeecho Thumbs.db
+=======
+**/*.csv 
+>>>>>>> 39cf93dbe41dc1c51be54bdd13412d306217ad68
